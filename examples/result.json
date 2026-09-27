@@ -1,0 +1,28 @@
+{
+  "hourly": [
+    {
+      "station_id": "S1",
+      "city": "Cairo",
+      "hour": "2026-09-01T10:00:00.000Z",
+      "samples": 2,
+      "avg_ug_m3": 15
+    },
+    {
+      "station_id": "S2",
+      "city": "Alexandria",
+      "hour": "2026-09-01T11:00:00.000Z",
+      "samples": 1,
+      "avg_ug_m3": 18
+    }
+  ],
+  "quarantine": [
+    {
+      "id": "d",
+      "reason": "unknown_station"
+    },
+    {
+      "id": "e",
+      "reason": "invalid_measurement"
+    }
+  ]
+}

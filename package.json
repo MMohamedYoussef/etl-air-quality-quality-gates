@@ -1,0 +1,10 @@
+{
+  "name": "etl-air-quality-quality-gates",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/pipeline.test.mjs",
+    "demo": "node pipeline.mjs"
+  }
+}
